@@ -1,0 +1,851 @@
+-- Merging decision tree log ---
+provider#androidx.work.impl.WorkManagerInitializer
+INJECTED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:53:9-58:51
+MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:31:9-37:35
+MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:31:9-37:35
+	android:enabled
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:56:13-36
+	android:authorities
+		INJECTED from C:\projects2\android\project\app\src\main\AndroidManifest.xml
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:55:13-68
+		REJECTED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:33:13-68
+	android:multiprocess
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:36:13-40
+	android:exported
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:57:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:34:13-44
+	tools:replace
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:58:13-48
+	android:name
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:54:13-69
+provider#org.owntracks.android.ui.preferences.LogViewerActivity$ExportedLogContentProvider
+INJECTED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:239:9-243:50
+	android:grantUriPermissions
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:243:13-47
+	android:authorities
+		INJECTED from C:\projects2\android\project\app\src\main\AndroidManifest.xml
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:241:13-55
+	android:exported
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:242:13-37
+	android:name
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:240:13-88
+manifest
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:2:1-246:12
+INJECTED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:2:1-246:12
+INJECTED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:2:1-246:12
+INJECTED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:2:1-246:12
+MERGED from [io.objectbox:objectbox-android:2.8.1] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\137b45f00b10becb1b8867cbcb8a3618\jetified-objectbox-android-2.8.1\AndroidManifest.xml:2:1-25:12
+MERGED from [androidx.databinding:databinding-adapters:4.1.1] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\424bed79abbfd81aa23fa5ca06e6fdec\databinding-adapters-4.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:4.1.1] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\51d74a29e75bc34271958f9747a0218b\databinding-runtime-4.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:viewbinding:4.1.1] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\0efd92a595a6993d1f6e01d086019a33\jetified-viewbinding-4.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.takisoft.preferencex:preferencex:1.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\c1dca5d5582b35af20b1f545796add1d\jetified-preferencex-1.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.preference:preference:1.1.1] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\b8888cc1407b2ecfcbe0569f4e60e6e1\preference-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.mikepenz:materialdrawer:6.1.2] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\cdd06b62a116d8d471029be5dc0ce448\jetified-materialdrawer-6.1.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.mikepenz:materialize:1.2.1] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\96c7d256027203d699e36425a9360d5c\jetified-materialize-1.2.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\c5a564e95164ef70af2b16229ae1c036\material-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:17:1-143:12
+MERGED from [org.conscrypt:conscrypt-android:2.5.1] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\d6a56b02cc6ff51df69ccba42dd2c735\jetified-conscrypt-android-2.5.1\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\d1cbc46f54c9509d09d8b72f416b29c6\jetified-play-services-maps-17.0.0\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-location:17.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\7f80a0030cbabd2c629c7c71bb205065\jetified-play-services-location-17.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.dagger:dagger-android-support:2.30.1] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\d4aa429430ce2af07621cc9a3bf511ef\jetified-dagger-android-support-2.30.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.dagger:dagger-android:2.30.1] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\3efaf0623a31beedf09c0726cc4732bf\jetified-dagger-android-2.30.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\4f6eb4b4552ae4c743b3fcfa198cd2a2\jetified-timber-4.7.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.joshjdevl.libsodiumjni:libsodium-jni-aar:2.0.2] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\24221ed9c45365c2d521ceb19d041e6c\jetified-libsodium-jni-aar-2.0.2\AndroidManifest.xml:2:1-14:12
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\a57a7ec41e1db6f76614d4c99efa42d5\jetified-library-2.1.4\AndroidManifest.xml:2:1-10:12
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\1af83f8c2fc599e8e863b86239822b25\jetified-core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\72f6aa0229ea05212581f86b47e364f3\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\528480669a904c2c8594826d47f0f775\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\c207728c86591a147929b7667237d364\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.mikepenz:iconics-core:3.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\b97fc72404c8a53dbc393d9210c0ab87\jetified-iconics-core-3.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.mikepenz:fastadapter-extensions-expandable:3.3.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\0eb284b6d05102ad34c764fec351952f\jetified-fastadapter-extensions-expandable-3.3.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.mikepenz:fastadapter-commons:3.3.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\a98210b28bec27aa0b01bfd2771246aa\jetified-fastadapter-commons-3.3.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.mikepenz:fastadapter:3.3.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\ec95f5b98a03b98f96d9d1177c155c44\jetified-fastadapter-3.3.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\42eb131a8621b7db83900df7ea8ad5cc\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\e51bc5eaff7e87883abe7444443dd3b9\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\0d3d48a3adb10c656f5ad3f731bad8ad\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\d366ea5e8ff5196d21a7590da7f30102\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\92e82f2693a4a76d6a86167f562acdd5\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\a13e55f728a81d12b40e0bb2c026d1a0\room-runtime-2.2.5\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\00dbc033de0de5119fc74319cea67ce8\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\5a6a9a0f04a12175a2e7341fa5a4b4df\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.3.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\b9112929a80fa133438864f566d7fe2f\jetified-play-services-base-17.3.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\a04105a4c592a16b988011e7aefae34f\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\fb0d7491bb7aca388f0de592c3f1af45\jetified-play-services-tasks-17.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\16435c3931e623aa4c21ebeff3811a8d\jetified-play-services-basement-17.3.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.2.5] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\a6814e1ba72c97ffc2b92a0cd2a9d45c\fragment-1.2.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\063f91359a365f59da3e137e532c4c73\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\4b4ad801aea886282839f72e12342f2e\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\9585db1a1f572d303db546654b85226b\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\f09b41c0712f3553992cd034e4687201\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\8bab4f7afbefc07ab5945f4cc3fd3241\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\0dd5dc82e7984a036c5034f50208625e\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.2] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\b2a2a62f2811c08971f144cca2e6c231\core-1.3.2\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\cd1056384f807809ac94578baeac5243\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\f61d24383fc02bda19492fe7b7ee8fa5\lifecycle-livedata-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\89cf570222c3a6433d93345eb4f6d7d9\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\594df025641621a582bec0099b61a1a8\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\341f5e71c861c85cc8dc1ebae820c8e7\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\600dc6a1e690c8b56243fb13985b2b74\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\38ab0cad718135569b2cc9949cb641ef\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\170a624c6243bc5e07509a1f3cd2d571\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\321b1cee1bf643cccf9b3922e09ca42c\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\729879986645a46c27924d6309bc72e4\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\b2472f54f5705bb26e72521abeaf615b\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\4a8583b259e0cc1c078b50739fef9af3\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.30.1] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\5eb92ded23d9f0a8515cf755538286f4\jetified-dagger-lint-aar-2.30.1\AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\f58517c38653ef7e01aec89ed3853160\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:2:1-246:12
+INJECTED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:2:1-246:12
+INJECTED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:2:1-246:12
+	package
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:4:5-36
+		INJECTED from C:\projects2\android\project\app\src\main\AndroidManifest.xml
+		INJECTED from C:\projects2\android\project\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\projects2\android\project\app\src\main\AndroidManifest.xml
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:2:1-246:12
+		INJECTED from C:\projects2\android\project\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\projects2\android\project\app\src\main\AndroidManifest.xml
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:2:1-246:12
+		INJECTED from C:\projects2\android\project\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#0x00020000
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:6:5-8:35
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\d1cbc46f54c9509d09d8b72f416b29c6\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\d1cbc46f54c9509d09d8b72f416b29c6\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:7:9-41
+	android:required
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:8:9-32
+uses-feature#android.hardware.location.gps
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:10:5-13:54
+	tools:ignore
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:13:9-51
+	android:required
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:12:9-32
+	android:name
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:11:9-53
+uses-permission#android.permission.INTERNET
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:15:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\d1cbc46f54c9509d09d8b72f416b29c6\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\d1cbc46f54c9509d09d8b72f416b29c6\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:15:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:17:5-79
+MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:26:5-79
+MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\d1cbc46f54c9509d09d8b72f416b29c6\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\d1cbc46f54c9509d09d8b72f416b29c6\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:17:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:19:5-68
+MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:25:5-68
+MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:19:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:21:5-81
+MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:27:5-81
+MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:21:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:23:5-80
+	android:name
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:23:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:27:5-79
+	android:name
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:27:22-76
+uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:29:5-85
+	android:name
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:29:22-82
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:32:5-98
+	android:name
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:32:22-95
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:35:5-77
+MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:28:5-77
+MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:28:5-77
+	android:name
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:35:22-74
+application
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:37:5-244:19
+MERGED from [io.objectbox:objectbox-android:2.8.1] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\137b45f00b10becb1b8867cbcb8a3618\jetified-objectbox-android-2.8.1\AndroidManifest.xml:21:5-23:31
+MERGED from [io.objectbox:objectbox-android:2.8.1] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\137b45f00b10becb1b8867cbcb8a3618\jetified-objectbox-android-2.8.1\AndroidManifest.xml:21:5-23:31
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\c5a564e95164ef70af2b16229ae1c036\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\c5a564e95164ef70af2b16229ae1c036\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:30:5-141:19
+MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:30:5-141:19
+MERGED from [org.conscrypt:conscrypt-android:2.5.1] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\d6a56b02cc6ff51df69ccba42dd2c735\jetified-conscrypt-android-2.5.1\AndroidManifest.xml:11:5-20
+MERGED from [org.conscrypt:conscrypt-android:2.5.1] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\d6a56b02cc6ff51df69ccba42dd2c735\jetified-conscrypt-android-2.5.1\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\d1cbc46f54c9509d09d8b72f416b29c6\jetified-play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\d1cbc46f54c9509d09d8b72f416b29c6\jetified-play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-location:17.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\7f80a0030cbabd2c629c7c71bb205065\jetified-play-services-location-17.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\7f80a0030cbabd2c629c7c71bb205065\jetified-play-services-location-17.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\4f6eb4b4552ae4c743b3fcfa198cd2a2\jetified-timber-4.7.1\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\4f6eb4b4552ae4c743b3fcfa198cd2a2\jetified-timber-4.7.1\AndroidManifest.xml:7:5-20
+MERGED from [com.github.joshjdevl.libsodiumjni:libsodium-jni-aar:2.0.2] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\24221ed9c45365c2d521ceb19d041e6c\jetified-libsodium-jni-aar-2.0.2\AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.joshjdevl.libsodiumjni:libsodium-jni-aar:2.0.2] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\24221ed9c45365c2d521ceb19d041e6c\jetified-libsodium-jni-aar-2.0.2\AndroidManifest.xml:11:5-12:19
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\a13e55f728a81d12b40e0bb2c026d1a0\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\a13e55f728a81d12b40e0bb2c026d1a0\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [com.google.android.gms:play-services-base:17.3.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\b9112929a80fa133438864f566d7fe2f\jetified-play-services-base-17.3.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.3.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\b9112929a80fa133438864f566d7fe2f\jetified-play-services-base-17.3.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\a04105a4c592a16b988011e7aefae34f\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\a04105a4c592a16b988011e7aefae34f\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\fb0d7491bb7aca388f0de592c3f1af45\jetified-play-services-tasks-17.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\fb0d7491bb7aca388f0de592c3f1af45\jetified-play-services-tasks-17.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\16435c3931e623aa4c21ebeff3811a8d\jetified-play-services-basement-17.3.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\16435c3931e623aa4c21ebeff3811a8d\jetified-play-services-basement-17.3.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.2] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\b2a2a62f2811c08971f144cca2e6c231\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\b2a2a62f2811c08971f144cca2e6c231\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\cd1056384f807809ac94578baeac5243\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\cd1056384f807809ac94578baeac5243\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\f58517c38653ef7e01aec89ed3853160\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\f58517c38653ef7e01aec89ed3853160\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+	android:extractNativeLibs
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:40:9-42
+	tools:ignore
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:49:9-39
+	android:roundIcon
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:46:9-48
+	android:icon
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:43:9-43
+	android:networkSecurityConfig
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:45:9-69
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\b2a2a62f2811c08971f144cca2e6c231\core-1.3.2\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:47:9-35
+	android:label
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:44:9-41
+	android:hardwareAccelerated
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:42:9-43
+	android:fullBackupContent
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:41:9-59
+	tools:targetApi
+		ADDED from [io.objectbox:objectbox-android:2.8.1] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\137b45f00b10becb1b8867cbcb8a3618\jetified-objectbox-android-2.8.1\AndroidManifest.xml:23:9-28
+	android:allowBackup
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:39:9-35
+		REJECTED from [com.github.joshjdevl.libsodiumjni:libsodium-jni-aar:2.0.2] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\24221ed9c45365c2d521ceb19d041e6c\jetified-libsodium-jni-aar-2.0.2\AndroidManifest.xml:11:18-45
+	android:theme
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:48:9-47
+	tools:replace
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:50:9-44
+	android:name
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:38:9-28
+uses-library#org.apache.http.legacy
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:61:9-63:40
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\d1cbc46f54c9509d09d8b72f416b29c6\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\d1cbc46f54c9509d09d8b72f416b29c6\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:63:13-37
+	android:name
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:62:13-50
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:65:9-67:59
+	android:value
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:67:13-56
+	android:name
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:66:13-58
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:69:9-71:51
+	android:value
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:71:13-48
+	android:name
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:70:13-59
+meta-data#firebase_analytics_collection_deactivated
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:73:9-75:36
+	android:value
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:75:13-33
+	android:name
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:74:13-69
+activity#org.owntracks.android.ui.regions.RegionsActivity
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:77:9-80:46
+	android:label
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:79:13-59
+	android:launchMode
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:80:13-43
+	android:name
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:78:13-55
+activity#org.owntracks.android.ui.region.RegionActivity
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:81:9-88:20
+	android:label
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:83:13-58
+	android:launchMode
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:84:13-43
+	android:name
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:82:13-53
+activity#org.owntracks.android.ui.preferences.PreferencesActivity
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:89:9-93:64
+	android:parentActivityName
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:93:13-61
+	android:label
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:92:13-63
+	android:hardwareAccelerated
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:91:13-47
+	android:name
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:90:13-63
+activity#org.owntracks.android.ui.preferences.editor.EditorActivity
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:95:9-103:20
+	android:parentActivityName
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:99:13-77
+	android:label
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:98:13-60
+	android:configChanges
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:97:13-48
+	android:name
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:96:13-65
+activity#org.owntracks.android.ui.preferences.load.LoadActivity
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:105:9-152:20
+	android:label
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:108:13-45
+	android:launchMode
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:109:13-44
+	android:configChanges
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:107:13-48
+	android:name
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:106:13-61
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:host:*+data:mimeType:*/*+data:pathPattern:.*\\..*\\.otrc+data:scheme:content
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:112:13-120:29
+action#android.intent.action.VIEW
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:113:17-69
+	android:name
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:113:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:114:17-76
+	android:name
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:114:27-73
+data
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:115:17-119:48
+	android:host
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:116:21-37
+	android:scheme
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:119:21-45
+	android:pathPattern
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:118:21-57
+	android:mimeType
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:117:21-43
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:host:*+data:mimeType:*/*+data:pathPattern:.*\\..*\\..*\\.otrc+data:scheme:content
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:123:13-131:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:text/plain
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:132:13-136:29
+	tools:ignore
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:132:28-83
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:application/json
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:137:13-141:29
+	tools:ignore
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:137:28-83
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:application/otrc
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:142:13-146:29
+	tools:ignore
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:142:28-83
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:application/octet-stream
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:147:13-151:29
+	tools:ignore
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:147:28-83
+provider#androidx.core.content.FileProvider
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:154:9-162:20
+	android:grantUriPermissions
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:158:13-47
+	android:authorities
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:156:13-69
+	android:exported
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:157:13-37
+	android:name
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:155:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:159:13-161:53
+	android:resource
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:161:17-50
+	android:name
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:160:17-67
+service#org.owntracks.android.services.BackgroundService
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:164:9-178:19
+	android:enabled
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:166:13-35
+	android:exported
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:167:13-36
+	tools:ignore
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:169:13-43
+	android:foregroundServiceType
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:168:13-53
+	android:name
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:165:13-55
+intent-filter#action:name:org.owntracks.android.CHANGE_MONITORING+action:name:org.owntracks.android.CLEAR_NOTIFICATIONS+action:name:org.owntracks.android.REREQUEST_LOCATION_UPDATES+action:name:org.owntracks.android.SEND_EVENT_CIRCULAR+action:name:org.owntracks.android.SEND_LOCATION_USER
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:171:13-177:29
+action#org.owntracks.android.CLEAR_NOTIFICATIONS
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:172:17-84
+	android:name
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:172:25-81
+action#org.owntracks.android.SEND_LOCATION_USER
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:173:17-83
+	android:name
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:173:25-80
+action#org.owntracks.android.SEND_EVENT_CIRCULAR
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:174:17-84
+	android:name
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:174:25-81
+action#org.owntracks.android.REREQUEST_LOCATION_UPDATES
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:175:17-91
+	android:name
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:175:25-88
+action#org.owntracks.android.CHANGE_MONITORING
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:176:17-82
+	android:name
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:176:25-79
+receiver#org.owntracks.android.support.receiver.StartBackgroundServiceReceiver
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:180:9-190:20
+	android:enabled
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:182:13-35
+	android:exported
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:183:13-36
+	android:name
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:181:13-76
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:184:13-186:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:185:17-79
+	android:name
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:185:25-76
+intent-filter#action:name:android.intent.action.MY_PACKAGE_REPLACED
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:187:13-189:29
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:188:17-84
+	android:name
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:188:25-81
+activity#org.owntracks.android.ui.status.StatusActivity
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:192:9-201:20
+	android:parentActivityName
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:197:13-61
+	android:label
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:195:13-58
+	android:launchMode
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:196:13-43
+	android:exported
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:194:13-36
+	android:name
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:193:13-53
+activity#org.owntracks.android.ui.contacts.ContactsActivity
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:202:9-206:47
+	android:clearTaskOnLaunch
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:204:13-45
+	android:label
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:205:13-60
+	android:launchMode
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:206:13-44
+	android:name
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:203:13-57
+activity#org.owntracks.android.ui.map.MapActivity
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:207:9-217:20
+	android:clearTaskOnLaunch
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:209:13-45
+	android:label
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:210:13-45
+	android:launchMode
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:211:13-44
+	android:name
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:208:13-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:212:13-215:29
+action#android.intent.action.MAIN
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:213:17-69
+	android:name
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:213:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:214:17-77
+	android:name
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:214:27-74
+activity#org.owntracks.android.ui.preferences.connection.ConnectionActivity
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:220:9-224:47
+	android:clearTaskOnLaunch
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:222:13-45
+	android:label
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:223:13-54
+	android:launchMode
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:224:13-44
+	android:name
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:221:13-73
+activity#org.owntracks.android.ui.preferences.LogViewerActivity
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:226:9-230:47
+	android:clearTaskOnLaunch
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:228:13-45
+	android:label
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:229:13-59
+	android:launchMode
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:230:13-44
+	android:name
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:227:13-61
+activity#org.owntracks.android.ui.welcome.WelcomeActivity
+ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:232:9-237:55
+	android:screenOrientation
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:237:13-52
+	android:label
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:235:13-45
+	android:launchMode
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:236:13-44
+	android:configChanges
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:234:13-63
+	android:name
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml:233:13-55
+uses-sdk
+INJECTED from C:\projects2\android\project\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\projects2\android\project\app\src\main\AndroidManifest.xml
+INJECTED from C:\projects2\android\project\app\src\main\AndroidManifest.xml
+MERGED from [io.objectbox:objectbox-android:2.8.1] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\137b45f00b10becb1b8867cbcb8a3618\jetified-objectbox-android-2.8.1\AndroidManifest.xml:8:5-10:41
+MERGED from [io.objectbox:objectbox-android:2.8.1] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\137b45f00b10becb1b8867cbcb8a3618\jetified-objectbox-android-2.8.1\AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.databinding:databinding-adapters:4.1.1] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\424bed79abbfd81aa23fa5ca06e6fdec\databinding-adapters-4.1.1\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:4.1.1] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\424bed79abbfd81aa23fa5ca06e6fdec\databinding-adapters-4.1.1\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.1.1] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\51d74a29e75bc34271958f9747a0218b\databinding-runtime-4.1.1\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.1.1] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\51d74a29e75bc34271958f9747a0218b\databinding-runtime-4.1.1\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:viewbinding:4.1.1] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\0efd92a595a6993d1f6e01d086019a33\jetified-viewbinding-4.1.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.1.1] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\0efd92a595a6993d1f6e01d086019a33\jetified-viewbinding-4.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.takisoft.preferencex:preferencex:1.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\c1dca5d5582b35af20b1f545796add1d\jetified-preferencex-1.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.takisoft.preferencex:preferencex:1.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\c1dca5d5582b35af20b1f545796add1d\jetified-preferencex-1.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.preference:preference:1.1.1] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\b8888cc1407b2ecfcbe0569f4e60e6e1\preference-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.1.1] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\b8888cc1407b2ecfcbe0569f4e60e6e1\preference-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.mikepenz:materialdrawer:6.1.2] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\cdd06b62a116d8d471029be5dc0ce448\jetified-materialdrawer-6.1.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikepenz:materialdrawer:6.1.2] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\cdd06b62a116d8d471029be5dc0ce448\jetified-materialdrawer-6.1.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikepenz:materialize:1.2.1] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\96c7d256027203d699e36425a9360d5c\jetified-materialize-1.2.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikepenz:materialize:1.2.1] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\96c7d256027203d699e36425a9360d5c\jetified-materialize-1.2.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\c5a564e95164ef70af2b16229ae1c036\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\c5a564e95164ef70af2b16229ae1c036\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [org.conscrypt:conscrypt-android:2.5.1] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\d6a56b02cc6ff51df69ccba42dd2c735\jetified-conscrypt-android-2.5.1\AndroidManifest.xml:7:5-9:41
+MERGED from [org.conscrypt:conscrypt-android:2.5.1] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\d6a56b02cc6ff51df69ccba42dd2c735\jetified-conscrypt-android-2.5.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\d1cbc46f54c9509d09d8b72f416b29c6\jetified-play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\d1cbc46f54c9509d09d8b72f416b29c6\jetified-play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:17.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\7f80a0030cbabd2c629c7c71bb205065\jetified-play-services-location-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\7f80a0030cbabd2c629c7c71bb205065\jetified-play-services-location-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.dagger:dagger-android-support:2.30.1] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\d4aa429430ce2af07621cc9a3bf511ef\jetified-dagger-android-support-2.30.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android-support:2.30.1] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\d4aa429430ce2af07621cc9a3bf511ef\jetified-dagger-android-support-2.30.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android:2.30.1] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\3efaf0623a31beedf09c0726cc4732bf\jetified-dagger-android-2.30.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android:2.30.1] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\3efaf0623a31beedf09c0726cc4732bf\jetified-dagger-android-2.30.1\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\4f6eb4b4552ae4c743b3fcfa198cd2a2\jetified-timber-4.7.1\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\4f6eb4b4552ae4c743b3fcfa198cd2a2\jetified-timber-4.7.1\AndroidManifest.xml:5:5-43
+MERGED from [com.github.joshjdevl.libsodiumjni:libsodium-jni-aar:2.0.2] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\24221ed9c45365c2d521ceb19d041e6c\jetified-libsodium-jni-aar-2.0.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.joshjdevl.libsodiumjni:libsodium-jni-aar:2.0.2] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\24221ed9c45365c2d521ceb19d041e6c\jetified-libsodium-jni-aar-2.0.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\a57a7ec41e1db6f76614d4c99efa42d5\jetified-library-2.1.4\AndroidManifest.xml:6:5-8:41
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\a57a7ec41e1db6f76614d4c99efa42d5\jetified-library-2.1.4\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\1af83f8c2fc599e8e863b86239822b25\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\1af83f8c2fc599e8e863b86239822b25\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\72f6aa0229ea05212581f86b47e364f3\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\72f6aa0229ea05212581f86b47e364f3\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\528480669a904c2c8594826d47f0f775\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\528480669a904c2c8594826d47f0f775\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\c207728c86591a147929b7667237d364\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\c207728c86591a147929b7667237d364\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.mikepenz:iconics-core:3.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\b97fc72404c8a53dbc393d9210c0ab87\jetified-iconics-core-3.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikepenz:iconics-core:3.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\b97fc72404c8a53dbc393d9210c0ab87\jetified-iconics-core-3.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikepenz:fastadapter-extensions-expandable:3.3.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\0eb284b6d05102ad34c764fec351952f\jetified-fastadapter-extensions-expandable-3.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikepenz:fastadapter-extensions-expandable:3.3.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\0eb284b6d05102ad34c764fec351952f\jetified-fastadapter-extensions-expandable-3.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikepenz:fastadapter-commons:3.3.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\a98210b28bec27aa0b01bfd2771246aa\jetified-fastadapter-commons-3.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikepenz:fastadapter-commons:3.3.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\a98210b28bec27aa0b01bfd2771246aa\jetified-fastadapter-commons-3.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikepenz:fastadapter:3.3.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\ec95f5b98a03b98f96d9d1177c155c44\jetified-fastadapter-3.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikepenz:fastadapter:3.3.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\ec95f5b98a03b98f96d9d1177c155c44\jetified-fastadapter-3.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\42eb131a8621b7db83900df7ea8ad5cc\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\42eb131a8621b7db83900df7ea8ad5cc\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\e51bc5eaff7e87883abe7444443dd3b9\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\e51bc5eaff7e87883abe7444443dd3b9\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\0d3d48a3adb10c656f5ad3f731bad8ad\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\0d3d48a3adb10c656f5ad3f731bad8ad\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\d366ea5e8ff5196d21a7590da7f30102\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\d366ea5e8ff5196d21a7590da7f30102\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\92e82f2693a4a76d6a86167f562acdd5\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\92e82f2693a4a76d6a86167f562acdd5\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\a13e55f728a81d12b40e0bb2c026d1a0\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\a13e55f728a81d12b40e0bb2c026d1a0\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\00dbc033de0de5119fc74319cea67ce8\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\00dbc033de0de5119fc74319cea67ce8\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\5a6a9a0f04a12175a2e7341fa5a4b4df\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\5a6a9a0f04a12175a2e7341fa5a4b4df\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base:17.3.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\b9112929a80fa133438864f566d7fe2f\jetified-play-services-base-17.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.3.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\b9112929a80fa133438864f566d7fe2f\jetified-play-services-base-17.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\a04105a4c592a16b988011e7aefae34f\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\a04105a4c592a16b988011e7aefae34f\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\fb0d7491bb7aca388f0de592c3f1af45\jetified-play-services-tasks-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\fb0d7491bb7aca388f0de592c3f1af45\jetified-play-services-tasks-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\16435c3931e623aa4c21ebeff3811a8d\jetified-play-services-basement-17.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\16435c3931e623aa4c21ebeff3811a8d\jetified-play-services-basement-17.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.2.5] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\a6814e1ba72c97ffc2b92a0cd2a9d45c\fragment-1.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.5] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\a6814e1ba72c97ffc2b92a0cd2a9d45c\fragment-1.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\063f91359a365f59da3e137e532c4c73\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\063f91359a365f59da3e137e532c4c73\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\4b4ad801aea886282839f72e12342f2e\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\4b4ad801aea886282839f72e12342f2e\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\9585db1a1f572d303db546654b85226b\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\9585db1a1f572d303db546654b85226b\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\f09b41c0712f3553992cd034e4687201\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\f09b41c0712f3553992cd034e4687201\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\8bab4f7afbefc07ab5945f4cc3fd3241\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\8bab4f7afbefc07ab5945f4cc3fd3241\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\0dd5dc82e7984a036c5034f50208625e\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\0dd5dc82e7984a036c5034f50208625e\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\b2a2a62f2811c08971f144cca2e6c231\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\b2a2a62f2811c08971f144cca2e6c231\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\cd1056384f807809ac94578baeac5243\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\cd1056384f807809ac94578baeac5243\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\f61d24383fc02bda19492fe7b7ee8fa5\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\f61d24383fc02bda19492fe7b7ee8fa5\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\89cf570222c3a6433d93345eb4f6d7d9\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\89cf570222c3a6433d93345eb4f6d7d9\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\594df025641621a582bec0099b61a1a8\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\594df025641621a582bec0099b61a1a8\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\341f5e71c861c85cc8dc1ebae820c8e7\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\341f5e71c861c85cc8dc1ebae820c8e7\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\600dc6a1e690c8b56243fb13985b2b74\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\600dc6a1e690c8b56243fb13985b2b74\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\38ab0cad718135569b2cc9949cb641ef\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\38ab0cad718135569b2cc9949cb641ef\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\170a624c6243bc5e07509a1f3cd2d571\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\170a624c6243bc5e07509a1f3cd2d571\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\321b1cee1bf643cccf9b3922e09ca42c\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\321b1cee1bf643cccf9b3922e09ca42c\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\729879986645a46c27924d6309bc72e4\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\729879986645a46c27924d6309bc72e4\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\b2472f54f5705bb26e72521abeaf615b\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\b2472f54f5705bb26e72521abeaf615b\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\4a8583b259e0cc1c078b50739fef9af3\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\4a8583b259e0cc1c078b50739fef9af3\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:dagger-lint-aar:2.30.1] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\5eb92ded23d9f0a8515cf755538286f4\jetified-dagger-lint-aar-2.30.1\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.30.1] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\5eb92ded23d9f0a8515cf755538286f4\jetified-dagger-lint-aar-2.30.1\AndroidManifest.xml:18:3-42
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\f58517c38653ef7e01aec89ed3853160\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\f58517c38653ef7e01aec89ed3853160\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\projects2\android\project\app\src\main\AndroidManifest.xml
+INJECTED from C:\projects2\android\project\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\projects2\android\project\app\src\main\AndroidManifest.xml
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml
+		INJECTED from C:\projects2\android\project\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\projects2\android\project\app\src\main\AndroidManifest.xml
+		ADDED from C:\projects2\android\project\app\src\main\AndroidManifest.xml
+		INJECTED from C:\projects2\android\project\app\src\main\AndroidManifest.xml
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:39:9-44:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:42:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:43:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:44:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:41:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:40:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:45:9-51:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:48:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:49:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:50:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:51:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:47:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:46:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:52:9-57:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:55:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:56:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:57:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:54:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:53:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:59:9-64:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:62:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:63:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:64:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:61:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:60:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:65:9-75:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:68:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:69:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:70:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:67:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:66:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:71:13-74:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:72:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:72:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:73:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:73:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:76:9-86:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:79:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:80:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:81:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:78:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:77:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:82:13-85:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:83:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:83:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:84:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:84:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:87:9-97:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:90:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:91:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:92:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:89:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:88:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:93:13-96:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:94:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:94:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:95:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:95:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:98:9-107:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:101:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:102:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:103:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:100:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:99:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:104:13-106:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:105:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:105:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:108:9-119:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:111:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:112:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:113:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:110:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:109:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:114:13-118:29
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:116:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:116:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:117:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:117:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:120:9-129:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:123:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:124:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:125:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:122:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:121:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:126:13-128:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:127:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:127:25-95
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:130:9-140:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:133:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:134:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:135:13-57
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:136:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:132:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:131:13-78
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:137:13-139:29
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:138:17-88
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\6023748b84bda29f78070f69288e7cb5\work-runtime-2.4.0\AndroidManifest.xml:138:25-85
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\a13e55f728a81d12b40e0bb2c026d1a0\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\a13e55f728a81d12b40e0bb2c026d1a0\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\a13e55f728a81d12b40e0bb2c026d1a0\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\a13e55f728a81d12b40e0bb2c026d1a0\room-runtime-2.2.5\AndroidManifest.xml:26:13-74
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.3.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\b9112929a80fa133438864f566d7fe2f\jetified-play-services-base-17.3.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.3.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\b9112929a80fa133438864f566d7fe2f\jetified-play-services-base-17.3.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.3.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\b9112929a80fa133438864f566d7fe2f\jetified-play-services-base-17.3.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.3.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\b9112929a80fa133438864f566d7fe2f\jetified-play-services-base-17.3.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\16435c3931e623aa4c21ebeff3811a8d\jetified-play-services-basement-17.3.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\16435c3931e623aa4c21ebeff3811a8d\jetified-play-services-basement-17.3.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\AVROGAL1\.gradle\caches\transforms-2\files-2.1\16435c3931e623aa4c21ebeff3811a8d\jetified-play-services-basement-17.3.0\AndroidManifest.xml:24:13-58

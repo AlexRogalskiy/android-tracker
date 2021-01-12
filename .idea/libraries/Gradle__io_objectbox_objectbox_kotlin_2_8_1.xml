@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: io.objectbox:objectbox-kotlin:2.8.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.objectbox/objectbox-kotlin/2.8.1/a728d192bbb17ecf25a173614209bac52dbf14c2/objectbox-kotlin-2.8.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.objectbox/objectbox-kotlin/2.8.1/c0fe6227435d9c4a076c24346bde87274d942870/objectbox-kotlin-2.8.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.objectbox/objectbox-kotlin/2.8.1/9091a53564991c34703abf2b75a3f53dd0bab23/objectbox-kotlin-2.8.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

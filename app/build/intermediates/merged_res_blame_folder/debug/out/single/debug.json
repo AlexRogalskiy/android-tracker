@@ -1,0 +1,346 @@
+[
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_push_up_in.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\anim\\push_up_in.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml_preferences_info.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\xml\\preferences_info.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_add_24.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\drawable\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_ui_welcome_finish.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\layout\\ui_welcome_finish.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_owntracks_80.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\drawable\\ic_owntracks_80.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_ui_welcome_permissions.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\layout\\ui_welcome_permissions.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml_filepaths.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\xml\\filepaths.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml_preferences_advanced.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\xml\\preferences_advanced.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_publish_24.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\drawable\\ic_baseline_publish_24.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_fiber_manual_record_24.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\drawable\\ic_baseline_fiber_manual_record_24.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_ui_row_region.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\layout\\ui_row_region.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_ui_row_contact.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\layout\\ui_row_contact.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_ui_preferences_editor.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\layout\\ui_preferences_editor.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_keyboard_arrow_right_24.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\drawable\\ic_baseline_keyboard_arrow_right_24.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_settings_toolbar.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\layout\\settings_toolbar.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_ui_preferences_connection_parameters.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\layout\\ui_preferences_connection_parameters.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_done_all_24.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\drawable\\ic_baseline_done_all_24.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_ui_preferences_editor_dialog.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\layout\\ui_preferences_editor_dialog.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_ui_preferences_connection_host_mqtt.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\layout\\ui_preferences_connection_host_mqtt.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_ui_preferences_load.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\layout\\ui_preferences_load.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_ui_preferences_logs.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\layout\\ui_preferences_logs.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_android_48.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\drawable\\ic_baseline_android_48.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_waypoints.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\menu\\activity_waypoints.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu_log_viewer.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\menu\\log_viewer.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_popup_contacts.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\menu\\menu_popup_contacts.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_step_forward_2.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\drawable\\ic_step_forward_2.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_ui_welcome_intro.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\layout\\ui_welcome_intro.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_outline_info_24.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\drawable\\ic_outline_info_24.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml_preferences_reporting.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\xml\\preferences_reporting.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml_preferences_root.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\xml\\preferences_root.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_autorenew_24.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\drawable\\ic_baseline_autorenew_24.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_ui_welcome_version.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\layout\\ui_welcome_version.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_ui_preferences_connection.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\layout\\ui_preferences_connection.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_load.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\menu\\activity_load.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_assignment_late_48.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\drawable\\ic_baseline_assignment_late_48.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cursor_white.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\drawable\\cursor_white.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_ui_region.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\layout\\ui_region.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_ui_status.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\layout\\ui_status.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_ui_welcome.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\layout\\ui_welcome.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_ui_preferences_connection_security.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\layout\\ui_preferences_connection_security.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_play_arrow_36.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\drawable\\ic_baseline_play_arrow_36.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_ui_preferences_connection_identification.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\layout\\ui_preferences_connection_identification.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_stop_36.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\drawable\\ic_baseline_stop_36.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_layers_24.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\drawable\\ic_baseline_layers_24.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_ui_preferences_connection_mode.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\layout\\ui_preferences_connection_mode.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_ui_contacts.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\layout\\ui_contacts.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_supervisor_account_24.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\drawable\\ic_baseline_supervisor_account_24.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_ui_regions.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\layout\\ui_regions.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_power_settings_new_24.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\drawable\\ic_baseline_power_settings_new_24.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_ui_preferences_connection_host_http.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\layout\\ui_preferences_connection_host_http.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_adjust_24.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\drawable\\ic_baseline_adjust_24.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu_preferences_connection_http.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\menu\\preferences_connection_http.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_pause_36.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\drawable\\ic_baseline_pause_36.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_info_24.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\drawable\\ic_baseline_info_24.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_more_horiz_24.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\drawable\\ic_baseline_more_horiz_24.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml_preferences_licenses.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\xml\\preferences_licenses.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu_picker.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\menu\\picker.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_ui_welcome_play.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\layout\\ui_welcome_play.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml_network_security_config.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_my_location_24.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\drawable\\ic_baseline_my_location_24.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu_preferences_connection_mqtt.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\menu\\preferences_connection_mqtt.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_ui_map.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\layout\\ui_map.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_map.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\menu\\activity_map.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml_preferences_notification.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\xml\\preferences_notification.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_share_24.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\drawable\\ic_baseline_share_24.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_log_viewer_entry.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\layout\\log_viewer_entry.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_done_24.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\drawable\\ic_baseline_done_24.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_ui_preferences.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\layout\\ui_preferences.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_none.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\anim\\none.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_configuration.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\menu\\activity_configuration.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_waypoint.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\menu\\activity_waypoint.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_settings_24.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\drawable\\ic_baseline_settings_24.xml"
+    },
+    {
+        "merged": "C:\\projects2\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml_backup_descriptor.xml.flat",
+        "source": "C:\\projects2\\android\\app\\src\\main\\res\\xml\\backup_descriptor.xml"
+    }
+]
